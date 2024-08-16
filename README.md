@@ -1,9 +1,8 @@
 # React-Questions
--- Advance React
---Store Management
---Redux and context API advantage over each other
---Styling
-
+Advance React
+Store Management
+Redux and context API advantage over each other
+Styling
 
 1.	Is State part of DOM tree structure?
 2.	How many ways of Styling possible in react
@@ -69,103 +68,82 @@
 60.	Use case of use Transition hook
 61.	How to profile react application to identify performance
 62.	How will use styled component and explain the flow ?
-What is the use of props and state in component ?
-What is React Lazy loading?
-How Lazy loading work behind the scene ?
-What the testing framework or library you used ?
-Suppose I have one Button and some tag showing counter value. Each time i click the button this counter value will increase. How will you write the test cases for this scenario and explain the flow?
-
-Did you worked on algorithm concept?
-Suppose I have array of integer value of 1000 and its already sorted, need to find the particular elements in that array, which of the best algorithm you will use?
-What is hoisting?
+63.	What is the use of props and state in component ?
+64.	What is React Lazy loading?
+65.	How Lazy loading work behind the scene ?
+66.	What the testing framework or library you used ?
+67.	Suppose I have one Button and some tag showing counter value. Each time i click the button this counter value will increase. How will you write the test cases for this scenario and explain the flow?
+68.	Did you worked on algorithm concept?
+69.	Suppose I have array of integer value of 1000 and its already sorted, need to find the particular elements in that array, which of the best algorithm you will use?
 How browser run the javascript file ?
-what is the use of promise and async await?
-what is CORS ? how will solve that?
-difference between http 1 and http 2?
-What is the use of cacheControl in headers ?
-Difference between call, apply and bind ?
-What is Node JS ?
-what is websocket? how it works?
-What is buffering in react?
-What is shadow dom?
-What is react fiber ?
-What are type of component you used? Explain that and which is best and why you will choose that?
-what is equivalent lifecycle of componentDidMount to functional component hooks
-What is context api?
-What is semantic elements?
-How you create custom attributes in elements ?
-what is template elements? what is the use of it ?
-Difference between Img and Picture tag ?
-What is the use of alt attribute in img tag?
-What is the use of method attribute in form?
-What is pointer events?
-what are the selectors you have used?
-What is the use of combinator selector?
-How you work on 3D kind of things?
-How you animation in your project?
+70.	what is the use of promise and async await?
+71.	what is CORS ? how will solve that?
+72.	difference between http 1 and http 2?
+73.	What is the use of cacheControl in headers ?
+74.	Difference between call, apply and bind ?
+75.	What is Node JS ?
+76.	what is websocket? how it works?
+77.	What is buffering in react?
+78.	What is shadow dom?
+79.	What is react fiber ?
+80.	What are type of component you used? Explain that and which is best and why you will choose that?
+81.	what is equivalent lifecycle of componentDidMount to functional component hooks
+82.	What is context api?
+83.	What is semantic elements?
+84.	How you create custom attributes in elements ?
+85.	what is template elements? what is the use of it ?
+86.	Difference between Img and Picture tag ?
+87.	What is the use of alt attribute in img tag?
+88.	What is the use of method attribute in form?
+89.	What is pointer events?
+90.	what are the selectors you have used?
+91.	What is the use of combinator selector?
+92.	How you work on 3D kind of things?
+93.	How you animation in your project?
+94.	What is the use of mixins in sass and how you use it ?
+95.	How will do css style using javascript?
+96.	Question about React Router
+97.	Any Styling library used
+98.	React hooks you have used
+99.	use case of useContext hook
+100.	use case of useReducer hook
+101.	About useRef hook
+102.	how will you improve performance of react app
+103.	differce betwenn use callback and use Memo
+104.	scenerio based questions
+105.	Debouncing and throtting
+106.	what is hoisting? explian with an example
+107.	How will catch error if there are multiple promises
+108.	Scenerio based question on promises
+109.	Event loop
+110.	Explain Solid principles
+111.	What is closure ?
+112.	ES6 and explain some methods ?
+113.	What is map?
+114.	What is type and interface ? Difference tween them?
+115.	What is React and what are the advantages of using it ?	
+116.	Difference between class and functional component ?
+117.	How do you achieve performance in react application?	
+118.	What is suspense and where it is used?
+119.	what is the role of reducer on in redux
+120.	redux flow/architecture
+121.	what libraries you used to manage api call
+122.	How do you handle form
+123.	Can we stop promises in between. Please explain?
+124.	What is callback function & Promises Detailed explaination?
+125.	Flow of event loop and queues ?
+126.	How to encode and decode in js without npm package ?
+127.	Detailed explaination of callstack.
+128.	Queues Detailed flow like timer queue.
+129.	What is event bubbling?	
+130.	Create a todo list in typescript
+131.	React and previous Project Role and Responsibilties
+132.	Why we use "use-strict" in react?
+133.	What are types of routes in react?
+134.	What is memory route and Hash Route?
+135.	Props passing from child to parent? How many types ?
+136.	Explain where you used class component instead of functional componer
+137.	Create custom hook? useDebounce and explain?
+138.	How would you prefer to do code splitting in React
+139.	What are controlled and uncontrolled components in React?
 
-What is the use of mixins in sass and how you use it ?
-
-How will do css style using javascript?
-
-What is hoisting?
-How browser run the javascript file ?
-
-
-Question about React Router
-
-
-any Styling library used
-Scenerio based questions
-React hooks you have used
-use case of useContext hook
-use case of useReducer hook
-About useRef hook
-how will you improve performance of react app
-differce betwenn use callback and use Memo
-scenerio based questions
-Debouncing and throtting
-es6 features
-How will catch error if there are multiple promises
-
-what is hoisting? explian with an example
-
-How will catch error if there are multiple promises
-
-Scenerio based question on promises
-
-Scenerio based question on running an script in an interval 
-
-Event loop
-
-Explain Solid principles
-63.	What is closure ?
-64.	ES6 and explain some methods ?
-65.	What is map?
-
-66.	What is type and interface ? Difference tween them?
-67.	What is React and what are the advantages of using it ?	
-68.	Difference between class and functional component ?
-69.	How do you achieve performance in react application?	
-70.	What is suspense and where it is used?
-71.	what is the role of reducer on in redux
-72.	redux flow/architecture
-73.	what libraries you used to manage api call
-74.	How do you handle form
-75.	Can we stop promises in between. Please explain?
-76.	What is callback function & Promises Detailed explaination?
-77.	Flow of event loop and queues ?
-78.	How to encode and decode in js without npm package ?
-79.	Detailed explaination of callstack.
-80.	Queues Detailed flow like timer queue.
-81.	What is event bubbling?	
-82.	Create a todo list in typescript
-83.	React and previous Project Role and Responsibilties
-84.	Why we use "use-strict" in react?
-85.	What are types of routes in react?
-86.	What is memory route and Hash Route?
-87.	Props passing from child to parent? How many types ?
-88.	Explain where you used class component instead of functional componer
-89.	Create custom hook? useDebounce and explain?
-90.	How would you prefer to do code splitting in React
-91.	What are controlled and uncontrolled components in React?
