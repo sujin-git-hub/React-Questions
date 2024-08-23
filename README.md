@@ -5,26 +5,33 @@ Redux and context API advantage over each other
 Styling
 
 1.	Is State part of DOM tree structure?
-2.	How many ways of Styling possible in react
-3.	Any styling 3rd party library
-4.	How to handle JWT token? Best place to store JWT
-5.	Security
-6.	SOLID Principal and real time advantage of each principal
-7.	Journey of React and purpose of introducing React hook. 
-8.	What is State & Props?
-9.	What is Props drilling?
-10.	Ques related to Object.freezeOn
-11.	Output based questions on IIFE's and Callback
-12.	explain hoisting	
-13.	es6 features and explain some methods? like map, filter etc
-14.	What is type and interface? Difference between them?
-15.	What is generic type ?
-16.	Suppose the variable will contain conditionallly like string or number which datatype will you use?
-17.	 What is typeof type ?
-18.	Diff b/w utility types Omit and Partial
-19.	What are tuples?
-20.	2+'2', 2-'2'
-21.	React Typescript questions
+     No boteare diffrent.
+  	**Dom:**
+  	  The Document Object Model (DOM) is a programming interface for web documents.
+  	  It represents the web page.
+  	  That programs can change the document structure, style, and content.
+  	**State:**
+  	  
+3.	How many ways of Styling possible in react
+4.	Any styling 3rd party library
+5.	How to handle JWT token? Best place to store JWT
+6.	Security
+7.	SOLID Principal and real time advantage of each principal
+8.	Journey of React and purpose of introducing React hook. 
+9.	What is State & Props?
+10.	What is Props drilling?
+11.	Ques related to Object.freezeOn
+12.	Output based questions on IIFE's and Callback
+13.	explain hoisting	
+14.	es6 features and explain some methods? like map, filter etc
+15.	What is type and interface? Difference between them?
+16.	What is generic type ?
+17.	Suppose the variable will contain conditionallly like string or number which datatype will you use?
+18.	 What is typeof type ?
+19.	Diff b/w utility types Omit and Partial
+20.	What are tuples?
+21.	2+'2', 2-'2'
+22.	React Typescript questions
 1. Create one interface array of object and load some sample data based on the array of object
 2. add extra property to that object like isAvaiable and load the data in react
 22.	component only the isAvailable is true
