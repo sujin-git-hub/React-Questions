@@ -8,30 +8,32 @@ Styling
      No both are diffrent.<br/>
   	**Dom:**<br/>
   	  The Document Object Model (DOM) is a programming interface for web documents.<br/>
-  	  It represents the web page.<br/>
-  	  That programs can change the document structure, style, and content.<br/>
-  	**State:**<br/>
-  	  
+  	  It represents the web page, that programs can change the document structure, style, and content.<br/>  	  
 3.	How many ways of Styling possible in react
-4.	Any styling 3rd party library
-5.	How to handle JWT token? Best place to store JWT
-6.	Security
-7.	SOLID Principal and real time advantage of each principal
-8.	Journey of React and purpose of introducing React hook. 
-9.	What is State & Props?
-10.	What is Props drilling?
-11.	Ques related to Object.freezeOn
-12.	Output based questions on IIFE's and Callback
-13.	explain hoisting	
-14.	es6 features and explain some methods? like map, filter etc
-15.	What is type and interface? Difference between them?
-16.	What is generic type ?
-17.	Suppose the variable will contain conditionallly like string or number which datatype will you use?
-18.	 What is typeof type ?
-19.	Diff b/w utility types Omit and Partial
-20.	What are tuples?
-21.	2+'2', 2-'2'
-22.	React Typescript questions
+        **1. Inline Styles**.<br/>
+               Styles are applied directly to elements using the style attribute..<br/>
+               **Example:** <div style={{ color: 'blue', fontSize: '14px' }}>Hello World</div>.<br/>
+               Simple to use, scoped to the component, easy to apply conditional styles.<br/>
+               Limited features (e.g., no pseudo-classes), can lead to poor performance due to creating new objects on each render.<br/>
+5.	Any styling 3rd party library
+6.	How to handle JWT token? Best place to store JWT
+7.	Security
+8.	SOLID Principal and real time advantage of each principal
+9.	Journey of React and purpose of introducing React hook. 
+10.	What is State & Props?
+11.	What is Props drilling?
+12.	Ques related to Object.freezeOn
+13.	Output based questions on IIFE's and Callback
+14.	explain hoisting	
+15.	es6 features and explain some methods? like map, filter etc
+16.	What is type and interface? Difference between them?
+17.	What is generic type ?
+18.	Suppose the variable will contain conditionallly like string or number which datatype will you use?
+19.	 What is typeof type ?
+20.	Diff b/w utility types Omit and Partial
+21.	What are tuples?
+22.	2+'2', 2-'2'
+23.	React Typescript questions
 1. Create one interface array of object and load some sample data based on the array of object
 2. add extra property to that object like isAvaiable and load the data in react
 22.	component only the isAvailable is true
