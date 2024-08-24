@@ -7,9 +7,9 @@ Styling
 1.	Is State part of DOM tree structure?
      No boteare diffrent.
   	**Dom:**
-  	  The Document Object Model (DOM) is a programming interface for web documents.
-  	  It represents the web page.
-  	  That programs can change the document structure, style, and content.
+  	  The Document Object Model (DOM) is a programming interface for web documents.<br/>
+  	  It represents the web page.<br/>
+  	  That programs can change the document structure, style, and content.<br/>
   	**State:**
   	  
 3.	How many ways of Styling possible in react
