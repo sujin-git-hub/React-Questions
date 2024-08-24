@@ -4,13 +4,13 @@ Store Management
 Redux and context API advantage over each other
 Styling
 
-1.	Is State part of DOM tree structure?
-     No boteare diffrent.
-  	**Dom:**
+1.	Is State part of DOM tree structure?<br/>
+     No both are diffrent.<br/>
+  	**Dom:**<br/>
   	  The Document Object Model (DOM) is a programming interface for web documents.<br/>
   	  It represents the web page.<br/>
   	  That programs can change the document structure, style, and content.<br/>
-  	**State:**
+  	**State:**<br/>
   	  
 3.	How many ways of Styling possible in react
 4.	Any styling 3rd party library
