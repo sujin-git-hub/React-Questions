@@ -22,7 +22,7 @@ Styling
 9.	Journey of React and purpose of introducing React hook. 
 10.	What is State & Props?
 11.	What is Props drilling?
-12.	Ques related to Object.freezeOn
+12.	Object.freezeOn
 13.	Output based questions on IIFE's and Callback
 14.	explain hoisting	
 15.	es6 features and explain some methods? like map, filter etc
